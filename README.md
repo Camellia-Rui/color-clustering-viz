@@ -45,11 +45,11 @@
 
 ## 📸 界面预览
 
-![聚类结果示例](https://github.com/user-attachments/assets/c3ed6c7f-c969-445f-b96c-df8e143efc44)
+![聚类结果示例（柱状图）](https://github.com/user-attachments/assets/d14e46e4-f5a3-40db-bcca-127301edd079)
 
 *图1：K=6 时的聚类中心颜色与像素数量分布（柱状图）*
 
-![交互切换演示](https://github.com/user-attachments/assets/d14e46e4-f5a3-40db-bcca-127301edd079)
+![交互切换演示（饼图与不同K值）](https://github.com/user-attachments/assets/c3ed6c7f-c969-445f-b96c-df8e143efc44)
 
 *图2：切换饼图样式及不同 K 值效果*
 
