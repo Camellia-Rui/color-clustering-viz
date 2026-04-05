@@ -45,15 +45,12 @@
 
 ## 📸 界面预览
 
-> <img width="2031" height="1280" alt="image" src="https://github.com/user-attachments/assets/c3ed6c7f-c969-445f-b96c-df8e143efc44" />
+![聚类结果示例](https://github.com/user-attachments/assets/c3ed6c7f-c969-445f-b96c-df8e143efc44)
 
-
-![聚类结果示例](<img width="2021" height="1255" alt="0fa2a7dc0ecce55da3075b3123fd9660" src="https://github.com/user-attachments/assets/d14e46e4-f5a3-40db-bcca-127301edd079" />
-)
 *图1：K=6 时的聚类中心颜色与像素数量分布（柱状图）*
 
-![交互切换演示](<img width="1999" height="1227" alt="74648fa87ea0427cd26303639c246d9e" src="https://github.com/user-attachments/assets/f316964b-8d75-4801-b03b-7003351ad449" />
-)
+![交互切换演示](https://github.com/user-attachments/assets/d14e46e4-f5a3-40db-bcca-127301edd079)
+
 *图2：切换饼图样式及不同 K 值效果*
 
 ## 🚀 快速开始
@@ -62,8 +59,3 @@
 直接访问：https://camellia-rui.github.io/color-clustering-viz/
 http://127.0.0.1:5500/Pro/index.html
 
-### 本地运行
-```bash
-git clone https://github.com/Camellia-Rui/color-clustering-viz.git
-cd color-clustering-viz
-# 直接用浏览器打开 index.html 即可
